@@ -1,0 +1,22 @@
+{
+  "matches": [
+    {
+      "utcDate": "2026-06-11T20:00:00Z",
+      "status": "FINISHED",
+      "stage": "GROUP_STAGE",
+      "group": "Group A",
+      "homeTeam": {"name": "Mexico"},
+      "awayTeam": {"name": "South Africa"},
+      "score": {"fullTime": {"home": 2, "away": 1}}
+    },
+    {
+      "utcDate": "2026-06-11T23:00:00Z",
+      "status": "TIMED",
+      "stage": "GROUP_STAGE",
+      "group": "Group B",
+      "homeTeam": {"name": "Canada"},
+      "awayTeam": {"name": "Qatar"},
+      "score": {"fullTime": {"home": null, "away": null}}
+    }
+  ]
+}
