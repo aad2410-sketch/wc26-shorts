@@ -1,7 +1,20 @@
 {
   "pillar_idx": 1,
-  "voice_idx": 1,
+  "voice_idx": 2,
   "posted": [],
-  "pending": [],
+  "pending": [
+    {
+      "file": "2026-06-11-preview-preview.mp4",
+      "title": "World Cup today: Mexico vs South Africa - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-11"
+    }
+  ],
   "yt_audit_passed": false
 }
