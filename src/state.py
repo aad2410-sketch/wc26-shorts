@@ -3,6 +3,7 @@
 Doubles as the daily-activity keepalive that prevents GitHub's 60-day
 scheduled-workflow auto-disable.
 """
+import copy
 import json
 
 from src import config
@@ -19,8 +20,8 @@ DEFAULT_STATE = {
 def load() -> dict:
     if config.STATE_FILE.exists():
         state = json.loads(config.STATE_FILE.read_text(encoding="utf-8"))
-        return {**DEFAULT_STATE, **state}
-    return dict(DEFAULT_STATE)
+        return {**copy.deepcopy(DEFAULT_STATE), **state}
+    return copy.deepcopy(DEFAULT_STATE)
 
 
 def save(state: dict) -> None:
