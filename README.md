@@ -4,6 +4,11 @@ Fully automated, fully free pipeline that posts 2–3 original FIFA World Cup
 2026 YouTube Shorts + Instagram Reels every day, generated from live
 tournament data. Runs on GitHub Actions — no server, no cost.
 
+**[Privacy Policy](PRIVACY.md)** · **[Terms of Service](TERMS.md)** — this
+project uses **YouTube API Services** ([YouTube ToS](https://www.youtube.com/t/terms),
+[Google Privacy Policy](http://www.google.com/policies/privacy)) and the
+Instagram Graph API to publish to the operator's own accounts.
+
 ```
  GitHub Actions cron (2x daily)
         │
