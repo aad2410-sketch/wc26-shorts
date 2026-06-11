@@ -23,7 +23,10 @@ from src.render import video
 
 
 def _summary(line: str) -> None:
-    print(line)
+    try:
+        print(line)
+    except UnicodeEncodeError:  # Windows cp1252 console can't print emoji
+        print(line.encode("ascii", "replace").decode())
     summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary_path:
         with open(summary_path, "a", encoding="utf-8") as f:
