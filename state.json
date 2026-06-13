@@ -201,6 +201,106 @@
         "ok": false,
         "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
       }
+    },
+    {
+      "file": "2026-06-11-preview-preview.mp4",
+      "title": "World Cup today: Mexico vs South Africa - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-12-preview-preview.mp4",
+      "title": "World Cup today: Canada vs Bosnia & Herzegovina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-12-preview-preview.mp4",
+      "title": "World Cup today: Canada vs Bosnia & Herzegovina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-13-preview-preview.mp4",
+      "title": "World Cup today: Qatar vs Switzerland - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-13-preview-preview.mp4",
+      "title": "World Cup today: Qatar vs Switzerland - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
     }
   ],
   "pending": [
