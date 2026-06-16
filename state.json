@@ -1,6 +1,6 @@
 {
   "pillar_idx": 1,
-  "voice_idx": 10,
+  "voice_idx": 11,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -1011,6 +1011,18 @@
       ],
       "pillar": "preview",
       "date": "2026-06-15"
+    },
+    {
+      "file": "2026-06-16-preview-preview.mp4",
+      "title": "World Cup today: France vs Senegal - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-16"
     }
   ],
   "yt_audit_passed": false
