@@ -1,6 +1,6 @@
 {
   "pillar_idx": 1,
-  "voice_idx": 25,
+  "voice_idx": 26,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -6291,6 +6291,18 @@
       ],
       "pillar": "preview",
       "date": "2026-06-23"
+    },
+    {
+      "file": "2026-06-24-preview-preview.mp4",
+      "title": "World Cup today: Czech Republic vs Mexico - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-24"
     }
   ],
   "yt_audit_passed": false
