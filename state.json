@@ -1,6 +1,6 @@
 {
   "pillar_idx": 3,
-  "voice_idx": 59,
+  "voice_idx": 60,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -34919,6 +34919,18 @@
       ],
       "pillar": "preview",
       "date": "2026-07-10"
+    },
+    {
+      "file": "2026-07-11-preview-preview.mp4",
+      "title": "World Cup today: Norway vs England - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-11"
     }
   ],
   "yt_audit_passed": false
