@@ -1,6 +1,6 @@
 {
-  "pillar_idx": 9,
-  "voice_idx": 75,
+  "pillar_idx": 10,
+  "voice_idx": 77,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -50991,6 +50991,30 @@
       ],
       "pillar": "trivia",
       "date": "2026-07-16"
+    },
+    {
+      "file": "2026-07-17-recap-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-17"
+    },
+    {
+      "file": "2026-07-17-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-17"
     }
   ],
   "yt_audit_passed": false
