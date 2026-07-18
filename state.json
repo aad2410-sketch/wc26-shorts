@@ -1,6 +1,6 @@
 {
   "pillar_idx": 12,
-  "voice_idx": 80,
+  "voice_idx": 81,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -55690,6 +55690,18 @@
         "#stats"
       ],
       "pillar": "stats",
+      "date": "2026-07-18"
+    },
+    {
+      "file": "2026-07-18-preview-preview.mp4",
+      "title": "World Cup today: France vs England - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
       "date": "2026-07-18"
     }
   ],
