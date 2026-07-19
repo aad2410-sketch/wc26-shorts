@@ -1,6 +1,6 @@
 {
   "pillar_idx": 12,
-  "voice_idx": 83,
+  "voice_idx": 84,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -58966,6 +58966,18 @@
         "#stats"
       ],
       "pillar": "stats",
+      "date": "2026-07-19"
+    },
+    {
+      "file": "2026-07-19-preview-preview.mp4",
+      "title": "World Cup today: Spain vs Argentina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
       "date": "2026-07-19"
     }
   ],
