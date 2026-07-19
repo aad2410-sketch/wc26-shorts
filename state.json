@@ -1,6 +1,6 @@
 {
   "pillar_idx": 12,
-  "voice_idx": 81,
+  "voice_idx": 83,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -57303,6 +57303,30 @@
       ],
       "pillar": "preview",
       "date": "2026-07-18"
+    },
+    {
+      "file": "2026-07-19-recap-recap.mp4",
+      "title": "World Cup recap: France vs England and every result",
+      "description": "Every FIFA World Cup 2026 result from yesterday in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "recap",
+      "date": "2026-07-19"
+    },
+    {
+      "file": "2026-07-19-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-19"
     }
   ],
   "yt_audit_passed": false
