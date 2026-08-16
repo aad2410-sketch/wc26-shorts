@@ -1,6 +1,6 @@
 {
-  "pillar_idx": 66,
-  "voice_idx": 165,
+  "pillar_idx": 67,
+  "voice_idx": 167,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -196071,6 +196071,30 @@
       ],
       "pillar": "hot_take",
       "date": "2026-08-15"
+    },
+    {
+      "file": "2026-08-16-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-16"
+    },
+    {
+      "file": "2026-08-16-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-16"
     }
   ],
   "yt_audit_passed": false
