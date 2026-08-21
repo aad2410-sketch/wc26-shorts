@@ -232221,6 +232221,3646 @@
         "ok": false,
         "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
       }
+    },
+    {
+      "file": "2026-06-11-preview-preview.mp4",
+      "title": "World Cup today: Mexico vs South Africa - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-12-preview-preview.mp4",
+      "title": "World Cup today: Canada vs Bosnia & Herzegovina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-12-preview-preview.mp4",
+      "title": "World Cup today: Canada vs Bosnia & Herzegovina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-13-preview-preview.mp4",
+      "title": "World Cup today: Qatar vs Switzerland - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-13-preview-preview.mp4",
+      "title": "World Cup today: Qatar vs Switzerland - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-14-preview-preview.mp4",
+      "title": "World Cup today: Germany vs Curaçao - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-14-preview-preview.mp4",
+      "title": "World Cup today: Germany vs Curaçao - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-15-preview-preview.mp4",
+      "title": "World Cup today: Belgium vs Egypt - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-15-preview-preview.mp4",
+      "title": "World Cup today: Iran vs New Zealand - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-16-preview-preview.mp4",
+      "title": "World Cup today: France vs Senegal - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-16-preview-preview.mp4",
+      "title": "World Cup today: Iraq vs Norway - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-17-preview-preview.mp4",
+      "title": "World Cup today: Portugal vs DR Congo - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-17-preview-preview.mp4",
+      "title": "World Cup today: Uzbekistan vs Colombia - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-18-preview-preview.mp4",
+      "title": "World Cup today: Czech Republic vs South Africa - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-19-preview-preview.mp4",
+      "title": "World Cup today: Scotland vs Morocco - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-19-preview-preview.mp4",
+      "title": "World Cup today: Scotland vs Morocco - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-20-preview-preview.mp4",
+      "title": "World Cup today: Germany vs Ivory Coast - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-20-preview-preview.mp4",
+      "title": "World Cup today: Germany vs Ivory Coast - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-21-preview-preview.mp4",
+      "title": "World Cup today: Belgium vs Iran - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-21-preview-preview.mp4",
+      "title": "World Cup today: Belgium vs Iran - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-22-preview-preview.mp4",
+      "title": "World Cup today: France vs Iraq - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-22",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-22-preview-preview.mp4",
+      "title": "World Cup today: France vs Iraq - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-22",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-23-preview-preview.mp4",
+      "title": "World Cup today: Portugal vs Uzbekistan - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-23",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-23-preview-preview.mp4",
+      "title": "World Cup today: Colombia vs DR Congo - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-23",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-24-preview-preview.mp4",
+      "title": "World Cup today: Czech Republic vs Mexico - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-24",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-24-preview-preview.mp4",
+      "title": "World Cup today: Czech Republic vs Mexico - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-24",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-25-preview-preview.mp4",
+      "title": "World Cup today: Turkey vs USA - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-25",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-25-preview-preview.mp4",
+      "title": "World Cup today: Turkey vs USA - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-25",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-26-preview-preview.mp4",
+      "title": "World Cup today: Egypt vs Iran - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-26",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-26-preview-preview.mp4",
+      "title": "World Cup today: Egypt vs Iran - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-26",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-27-preview-preview.mp4",
+      "title": "World Cup today: Algeria vs Austria - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-27",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-27-preview-preview.mp4",
+      "title": "World Cup today: Algeria vs Austria - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-27",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-28-preview-preview.mp4",
+      "title": "World Cup today: South Africa vs Canada - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-28",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-28-preview-preview.mp4",
+      "title": "World Cup today: South Africa vs Canada - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-28",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-29-preview-preview.mp4",
+      "title": "World Cup today: Germany vs Paraguay - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-29",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-29-preview-preview.mp4",
+      "title": "World Cup today: Germany vs Paraguay - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-29",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-30-preview-preview.mp4",
+      "title": "World Cup today: France vs Sweden - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-30",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-06-30-preview-preview.mp4",
+      "title": "World Cup today: France vs Sweden - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-06-30",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-01-preview-preview.mp4",
+      "title": "World Cup today: England vs DR Congo - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-01",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-01-preview-preview.mp4",
+      "title": "World Cup today: USA vs Bosnia & Herzegovina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-01",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-02-preview-preview.mp4",
+      "title": "World Cup today: Portugal vs Croatia - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-02",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-02-preview-preview.mp4",
+      "title": "World Cup today: Portugal vs Croatia - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-02",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-03-preview-preview.mp4",
+      "title": "World Cup today: Argentina vs Cape Verde - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-03",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-03-preview-preview.mp4",
+      "title": "World Cup today: Argentina vs Cape Verde - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-03",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-04-preview-preview.mp4",
+      "title": "World Cup today: Paraguay vs France - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-04",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-04-preview-preview.mp4",
+      "title": "World Cup today: Paraguay vs France - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-04",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-05-preview-preview.mp4",
+      "title": "World Cup today: Brazil vs Norway - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-05",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-05-preview-preview.mp4",
+      "title": "World Cup today: Brazil vs Norway - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-05",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-06-preview-preview.mp4",
+      "title": "World Cup today: Portugal vs Spain - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-06",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-06-preview-preview.mp4",
+      "title": "World Cup today: Portugal vs Spain - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-06",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-07-preview-preview.mp4",
+      "title": "World Cup today: Argentina vs Egypt - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-07",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-07-preview-preview.mp4",
+      "title": "World Cup today: Switzerland vs Colombia - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-07",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-08-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-08",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-08-preview-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-08",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-09-preview-preview.mp4",
+      "title": "World Cup today: France vs Morocco - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-09",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-09-preview-preview.mp4",
+      "title": "World Cup today: France vs Morocco - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-09",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-10-preview-preview.mp4",
+      "title": "World Cup today: Spain vs Belgium - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-10",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-10-preview-preview.mp4",
+      "title": "World Cup today: Spain vs Belgium - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-10",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-11-preview-preview.mp4",
+      "title": "World Cup today: Norway vs England - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-11-preview-preview.mp4",
+      "title": "World Cup today: Norway vs England - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-12-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-12-preview-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-13-recap-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-13-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-13-preview-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-14-recap-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-14-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-14-preview-preview.mp4",
+      "title": "World Cup today: France vs Spain - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-15-recap-recap.mp4",
+      "title": "World Cup recap: France vs Spain and every result",
+      "description": "Every FIFA World Cup 2026 result from yesterday in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "recap",
+      "date": "2026-07-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-15-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-15-preview-preview.mp4",
+      "title": "World Cup today: England vs Argentina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-16-recap-recap.mp4",
+      "title": "World Cup recap: England vs Argentina and every result",
+      "description": "Every FIFA World Cup 2026 result from yesterday in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "recap",
+      "date": "2026-07-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-16-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-16-preview-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-17-recap-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-17-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-17-preview-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-18-recap-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-18-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-18-preview-preview.mp4",
+      "title": "World Cup today: France vs England - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-19-recap-recap.mp4",
+      "title": "World Cup recap: France vs England and every result",
+      "description": "Every FIFA World Cup 2026 result from yesterday in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "recap",
+      "date": "2026-07-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-19-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-19-preview-preview.mp4",
+      "title": "World Cup today: Spain vs Argentina - don't miss it",
+      "description": "Today's FIFA World Cup 2026 fixtures in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #football",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#football"
+      ],
+      "pillar": "preview",
+      "date": "2026-07-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-20-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-20-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-20-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-21-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-21-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-21-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-22-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-22",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-22-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-22",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-22-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-22",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-23-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-23",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-23-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-23",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-23-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-23",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-24-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-24",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-24-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-24",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-24-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-24",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-25-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-25",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-25-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-25",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-25-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-25",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-26-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-26",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-26-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-26",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-26-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-26",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-27-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-27",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-27-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-27",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-27-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-27",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-28-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-28",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-28-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-28",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-28-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-28",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-29-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-29",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-29-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-29",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-29-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-29",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-30-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-30",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-30-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-30",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-30-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-30",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-31-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-07-31",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-31-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-07-31",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-07-31-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-07-31",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-01-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-01",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-01-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-01",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-01-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-01",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-02-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-02",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-02-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-02",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-02-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-02",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-03-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-03",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-03-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-03",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-03-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-03",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-04-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-04",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-04-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-04",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-04-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-04",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-05-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-05",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-05-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-05",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-05-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-05",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-06-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-06",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-06-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-06",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-06-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-06",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-07-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-07",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-07-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-07",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-07-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-07",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-08-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-08",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-08-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-08",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-08-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-08",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-09-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-09",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-09-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-09",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-09-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-09",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-10-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-10",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-10-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-10",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-10-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-10",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-11-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-11-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-11-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-11",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-12-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-12-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-12-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-12",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-13-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-13-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-13-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-13",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-14-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-14-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-14-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-14",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-15-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-15-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-15-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-15",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-16-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-16-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-16-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-16",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-17-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-17-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-17-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-17",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-18-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-18-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-18-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-18",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-19-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-19-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-19-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-19",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-20-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-20-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-20-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-20",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-21-recap-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-08-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-21-recap-stats.mp4",
+      "title": "The World Cup numbers nobody is talking about",
+      "description": "World Cup 2026 stats and records in 25 seconds.\n#WorldCup2026 #FIFAWorldCup #stats",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#stats"
+      ],
+      "pillar": "stats",
+      "date": "2026-08-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
+    },
+    {
+      "file": "2026-08-21-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-08-21",
+      "yt": {
+        "ok": false,
+        "error": "Missing required env var YT_REFRESH_TOKEN - see SETUP.md for how to create it"
+      },
+      "ig": {
+        "ok": false,
+        "error": "Missing required env var IG_USER_ID - see SETUP.md for how to create it"
+      }
     }
   ],
   "pending": [
