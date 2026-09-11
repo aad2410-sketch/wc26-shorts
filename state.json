@@ -1,6 +1,6 @@
 {
-  "pillar_idx": 118,
-  "voice_idx": 228,
+  "pillar_idx": 119,
+  "voice_idx": 229,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -404187,6 +404187,18 @@
       ],
       "pillar": "hot_take",
       "date": "2026-09-10"
+    },
+    {
+      "file": "2026-09-11-preview-trivia.mp4",
+      "title": "Only one player won 3 World Cups",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #trivia",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#trivia"
+      ],
+      "pillar": "trivia",
+      "date": "2026-09-11"
     }
   ],
   "yt_audit_passed": false
