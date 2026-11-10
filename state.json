@@ -1,6 +1,6 @@
 {
-  "pillar_idx": 237,
-  "voice_idx": 348,
+  "pillar_idx": 238,
+  "voice_idx": 349,
   "posted": [
     {
       "file": "2026-06-11-preview-preview.mp4",
@@ -1089647,6 +1089647,18 @@
       ],
       "pillar": "trivia",
       "date": "2026-11-09"
+    },
+    {
+      "file": "2026-11-10-preview-hot_take.mp4",
+      "title": "48 teams will RUIN nothing",
+      "description": "FIFA World Cup 2026 - daily shorts.\n#WorldCup2026 #FIFAWorldCup #hottake",
+      "hashtags": [
+        "#WorldCup2026",
+        "#FIFAWorldCup",
+        "#hottake"
+      ],
+      "pillar": "hot_take",
+      "date": "2026-11-10"
     }
   ],
   "yt_audit_passed": false
